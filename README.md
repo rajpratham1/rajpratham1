@@ -1,5 +1,93 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Personal portfolio enhancements<br><br>SkillConnect India – a live location-based professional service finder<br><br>WishWoven – custom birthday wishes generator<br><br>🤝 I’m looking to collaborate on:<br>Web-based tools that solve real-world problems<br><br>Open Source Projects (like Aether-Tools or Search-GPT)<br><br>Creative frontend UI/UX experiences<br><br>🤝 I’m looking for help with:<br>Optimizing React performance<br><br>Integrating APIs efficiently in JavaScript projects<br><br>Growing my GitHub community through meaningful collaborations<br><br>🌱 I’m currently learning:<br>Advanced concepts in React & TailwindCSS<br><br>Full-stack development using MERN<br><br>Deployment using Vercel and Netlify<br><br>💬 Ask me about:<br>Building smart websites from scratch<br><br>Deploying projects via GitHub and live hosting platforms<br><br>Unique birthday and celebration websites like BdyWishes, WishWoven
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pratham - About Me</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 2rem;
+      border-radius: 12px;
+      background-color: #161b22;
+      box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    }
+    h1, h2 {
+      color: #f0f6fc;
+    }
+    a:hover {
+      opacity: 0.8;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <!-- About Me -->
+    <h1 class="text-3xl font-bold mb-6">🌙 About Me</h1>
+    <p class="mb-4">🔭 <strong>I’m currently working on:</strong><br>
+    Personal portfolio enhancements<br>
+    SkillConnect India – a live location-based professional service finder<br>
+    WishWoven – custom birthday wishes generator</p>
+
+    <p class="mb-4">🤝 <strong>I’m looking to collaborate on:</strong><br>
+    Web-based tools that solve real-world problems<br>
+    Open Source Projects (like Aether-Tools or Search-GPT)<br>
+    Creative frontend UI/UX experiences</p>
+
+    <p class="mb-4">🧠 <strong>I’m looking for help with:</strong><br>
+    Optimizing React performance</p>
+
+    <!-- Socials -->
+    <h2 class="text-2xl font-semibold mt-10 mb-4">🌐 Socials</h2>
+    <div class="flex space-x-4">
+      <a href="https://www.facebook.com/pratham.shrivastava.549" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+      </a>
+      <a href="https://www.instagram.com/pratham.shrivastaw" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+      <a href="https://www.linkedin.com/in/pratham-kumar-2a4b151a7" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://x.com/prathamshriva18" target="_blank">
+        <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+      </a>
+    </div>
+
+    <!-- Tech Stack -->
+    <h2 class="text-2xl font-semibold mt-10 mb-4">💻 Tech Stack</h2>
+    <div class="flex flex-wrap gap-3">
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+      <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    </div>
+
+    <!-- GitHub Stats -->
+    <h2 class="text-2xl font-semibold mt-10 mb-4">📊 GitHub Stats</h2>
+    <div class="space-y-4">
+      <img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=dark" alt="GitHub Stats" class="rounded-lg">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=dark" alt="Top Languages" class="rounded-lg">
+    </div>
+
+    <!-- GitHub Trophies -->
+    <h2 class="text-2xl font-semibold mt-10 mb-4">🏆 GitHub Trophies</h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=rajpratham1&theme=darkhub" alt="GitHub Trophies" class="rounded-lg">
+  </div>
+
+</body>
+</html>
+
 
 
 ## 🌐 Socials:
