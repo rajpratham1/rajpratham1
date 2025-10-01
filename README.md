@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/gitprofile-banner.png" alt="GitHub Profile Banner"/>
+
   <a href="https://github.com/rajpratham1">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Pratham+Kumar+👋;A+Full-Stack+Developer;SIH+2025+Innovator;Passionate+about+Cyber+Security" alt="Typing SVG" />
   </a>
@@ -14,8 +16,8 @@
 I'm a passionate Full-Stack Developer with a knack for creating intuitive and impactful web applications. My journey is driven by a desire to build solutions that address real-world needs, and I'm always excited to take on new challenges like the Smart India Hackathon.
 
 -   🔭 **Currently Working On:**
-    -   **SIH 2025 PS #1:** [**ADD YOUR DETAILED PROBLEM STATEMENT TITLE HERE**] - *Briefly describe the project's goal, e.g., "Developing an AI-powered platform for..."*
-    -   **SIH 2025 PS #2:** Focusing on another innovative solution for the hackathon.
+    -   **SIH PS #25028:** Timetable Scheduler and Smart Classroom
+    -   **SIH PS #25195:** Smart Helpdesk Ticketing Solution for IT Services
 
 -   🌱 **Currently Learning:**
     -   **Primary Focus:** Mastering **Data Structures & Algorithms (DSA) in C++** for building efficient, high-performance applications.
@@ -85,6 +87,7 @@ Click on the categories below to see the technologies I work with!
   <p align="center">
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
   </p>
