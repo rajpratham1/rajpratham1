@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/gitprofile-banner.png" alt="GitHub Profile Banner"/>
+  <img src="https://raw.githubusercontent.com/REVANTH-S-R/github-profile-readme-banners/main/code-banner.png" alt="GitHub Profile Banner"/>
 
   <a href="https://github.com/rajpratham1">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Pratham+Kumar+👋;A+Full-Stack+Developer;SIH+2025+Innovator;Passionate+about+Cyber+Security" alt="Typing SVG" />
