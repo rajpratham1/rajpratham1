@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Pratham%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI-Augmented%20Innovator&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Pratham%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Learning%20Cyber%20Security&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%"/>
 
   <a href="https://github.com/rajpratham1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+🚀;Integrating+AI+for+Rapid+Development+🤖;SIH+2025+Innovator+🏆;Quick+Learner+%26+Problem+Solver+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+🚀;Powered+by+Generative+AI+🤖;Diving+into+Cyber+Security+🔐;Always+Shipping+New+Projects+⚡" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -12,34 +12,30 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me & My Journey
 
-I am a dynamic **Full-Stack Developer** passionate about building efficient solutions. I don't just write code; I engineer solutions.
+I am a passionate **Full-Stack Developer** and a **Quick Learner** who believes that the best way to master technology is by building it.
 
-What sets me apart is my **AI-Augmented Workflow**. I leverage the latest Generative AI tools to accelerate the development lifecycle, allowing me to move from *Idea* to *Deployment* in record time. This approach lets me focus on complex architecture and logic while AI handles the boilerplate.
-
-- 💡 **My Philosophy:** "Learn fast, build faster."
-- 🔄 **Current Status:** I am continuously shipping code, managing multiple projects simultaneously (approx. 1+ active projects at any given time).
-- 🌱 **Always Learning:** I am a quick learner, constantly updating my tech stack to include the latest industry standards.
+- 🔄 **Continuous Innovation:** I am **always working on different projects** simultaneously. I don't believe in stagnation; the moment I finish one project, I am already architecting the next. This constant cycle of creation helps me stay ahead of the curve.
+- 🔐 **Security Focus:** Recently, I have **started learning Cyber Security**. My goal is to evolve from building apps that *work* to building apps that are *secure*, resilient, and unbreakable.
+- ⚡ **AI-Augmented Workflow:** I leverage the power of advanced AI models to accelerate my development. By integrating AI into my workflow, I save time on boilerplate and focus entirely on complex logic and system architecture.
 
 ---
 
-### 🔭 Current Missions (SIH 2025)
+### 🛠️ The Tech Stack & AI Arsenal
 
-I am actively innovating for the **Smart India Hackathon 2025**:
-
-| Project ID | Title | Focus Area |
-| :--- | :--- | :--- |
-| **#25028** | 🗓️ **Timetable Scheduler** | Smart Classroom & Automation |
-| **#25195** | 🎫 **Helpdesk Ticketing** | IT Services & Workflow Optimization |
-
----
-
-### ⚡ The AI Advantage & Tech Stack
-
-I combine traditional coding mastery with modern AI tools. Click to explore my arsenal:
+I combine traditional coding with the latest AI tools to build faster and better.
 
 <div align="center">
+
+<details open>
+  <summary><strong>🤖 AI & Assistants (My Daily Drivers)</strong></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude%203.5%20Sonnet-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GPT--4o%20Mini-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o Mini" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-1f2328?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+</details>
 
 <details>
   <summary><strong>🧠 Languages & Core</strong></summary>
@@ -56,7 +52,6 @@ I combine traditional coding mastery with modern AI tools. Click to explore my a
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </details>
 
 <details>
@@ -66,14 +61,6 @@ I combine traditional coding mastery with modern AI tools. Click to explore my a
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</details>
-
-<details open>
-  <summary><strong>🤖 AI & Tools</strong></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-1f2328?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </details>
 
 </div>
