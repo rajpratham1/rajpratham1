@@ -1,87 +1,78 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Pratham%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Learning%20Cyber%20Security&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=280&section=header&text=Pratham%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Architect%20%7C%20Aspiring%20Cyber%20Sentinel&descAlignY=60&descSize=22&fontColor=ffffff" alt="Header" width="100%"/>
 
   <a href="https://github.com/rajpratham1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+🚀;Powered+by+Generative+AI+🤖;Diving+into+Cyber+Security+🔐;Always+Shipping+New+Projects+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems+Rapidly+⚡;Powered+by+Gemini,+Claude+%26+GPT-4o+🤖;Transitioning+to+Cyber+Security+%26+Ethical+Hacking+🔐;Always+Shipping+New+Projects+🚀" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=rajpratham1&color=00BFFF&style=for-the-badge" alt="Profile Views"/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=rajpratham1&color=00BFFF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+    <a href="https://github.com/rajpratham1?tab=repositories">
+      <img src="https://img.shields.io/github/repos/rajpratham1?color=00BFFF&style=for-the-badge&logo=github&logoColor=white&label=Public+Repos" alt="Repos"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🚀 About Me & My Journey
+### 👨‍💻 About Me: The Relentless Builder
 
-I am a passionate **Full-Stack Developer** and a **Quick Learner** who believes that the best way to master technology is by building it.
+I am a **Full-Stack Developer** driven by a simple rule: **"Build to Learn."** I don't just study concepts; I turn them into deployed applications. My journey is defined by constant motion—I am always working on multiple projects simultaneously, ensuring that my skills never stagnate.
 
-- 🔄 **Continuous Innovation:** I am **always working on different projects** simultaneously. I don't believe in stagnation; the moment I finish one project, I am already architecting the next. This constant cycle of creation helps me stay ahead of the curve.
-- 🔐 **Security Focus:** Recently, I have **started learning Cyber Security**. My goal is to evolve from building apps that *work* to building apps that are *secure*, resilient, and unbreakable.
-- ⚡ **AI-Augmented Workflow:** I leverage the power of advanced AI models to accelerate my development. By integrating AI into my workflow, I save time on boilerplate and focus entirely on complex logic and system architecture.
+> *"The faster you build, the faster you fail, and the faster you learn."*
+
+#### 🚀 My "Rapid-Dev" Methodology
+* **Continuous Iteration:** I actively maintain **1-2 major projects** while prototyping several mini-projects. This keeps my problem-solving skills sharp.
+* **AI-Augmented Engineering:** I don't just write code; I orchestrate it. Using advanced LLMs (Gemini, Claude 3.5, GPT-4o), I eliminate boilerplate, debug instantly, and focus 100% of my energy on **System Architecture** and **Logic**.
+* **Visual Learning:** I prefer interactive UIs and real-time feedback loops over static theory.
 
 ---
 
-### 🛠️ The Tech Stack & AI Arsenal
+### 🔐 Current Focus: The Shift to Cyber Security
 
-I combine traditional coding with the latest AI tools to build faster and better.
+As I master the art of *building* software, I am now dedicating myself to learning how to *break* and *protect* it.
+
+* **Goal:** To become a DevSecOps Engineer who writes secure code by default.
+* **Learning Path:** Network Security ➡️ Web Penetration Testing ➡️ Cryptography.
+* **Why?** In an AI-driven world, security is the final frontier of trust.
+
+---
+
+### 🛠️ My Tech Arsenal & AI Co-Pilots
+
+I treat AI models as my teammates, not just tools. Here is the stack that powers my rapid development:
 
 <div align="center">
 
-<details open>
-  <summary><strong>🤖 AI & Assistants (My Daily Drivers)</strong></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude%203.5%20Sonnet-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/GPT--4o%20Mini-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o Mini" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-1f2328?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
-</details>
-
-<details>
-  <summary><strong>🧠 Languages & Core</strong></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</details>
-
-<details>
-  <summary><strong>🎨 Frontend & UI</strong></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-</details>
-
-<details>
-  <summary><strong>🗄️ Backend & Cloud</strong></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</details>
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **🤖 AI Models (Daily Drivers)** | <img src="https://img.shields.io/badge/Claude_3.5_Sonnet-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/> <img src="https://img.shields.io/badge/GPT--4o_Mini-412991?style=for-the-badge&logo=openai&logoColor=white"/> |
+| **💻 Languages** | <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> |
+| **⚛️ Frontend** | <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> |
+| **🗄️ Backend & Cloud** | <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/> <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> |
 
 </div>
 
 ---
 
-### 📊 Development Metrics
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Languages" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub%20Stats&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=Top%20Languages&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
+<br/>
+
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=rajpratham1&theme=tokyonight&hide_border=true&background=141321" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rajpratham1&theme=tokyonight&hide_border=true&background=0d1117&fire=00BFFF&ring=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Collaborate
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratham-kumar-2a4b151a7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -92,6 +83,6 @@ I combine traditional coding with the latest AI tools to build faster and better
 
 <p align="center">
   <a href="https://buymeacoffee.com/rajpratham1" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+    <img src="https://img.shields.io/badge/Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
   </a>
 </p>
