@@ -113,7 +113,7 @@ I combine a solid foundation in core programming with the latest AI tools to bui
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/OWASP-000000%3Fstyle%3Dfor-the-badge%26logo%3Dowasp%26logoColor%3Dwhite" alt="OWASP"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Nmap-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnmap%26logoColor%3Dwhite" alt="Nmap"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Burp%2520Suite-FF6633%3Fstyle%3Dfor-the-badge%26logo%3Dburp-suite%26logoColor%3Dwhite" alt="Burp Suite"/>
-<img src="https-img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dfor-the-badge%26logo%3Dwireshark%26logoColor%3Dwhite" alt="Wireshark"/>
 </details>
 
 </div>
@@ -143,7 +143,7 @@ I combine a solid foundation in core programming with the latest AI tools to bui
 
 
 
-<img src="httpss://ghchart.rshah.org/rajpratham1?color=00BFFF&bg=1a1b27" alt="My Contribution Graph" />
+<img src="https://www.google.com/search?q=https://ghchart.rshah.org/rajpratham1%3Fcolor%3D00BFFF%26bg%3D1a1b27" alt="My Contribution Graph" />
 
 
 
