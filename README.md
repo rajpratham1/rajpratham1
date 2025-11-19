@@ -6,7 +6,7 @@
 
   <a href="https://github.com/rajpratham1">
 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+🚀;Powered+by+Generative+AI+🤖;Diving+into+Cyber+Security+🔐;Always+Shipping+New+Projects+⚡" alt="Typing SVG" />
+
 
   </a>
 
