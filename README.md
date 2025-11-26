@@ -1,37 +1,44 @@
 <div align="center">
  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Pratham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Digital%20Fortress&descAlignY=60&descSize=25&fontColor=00aeff" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=280&section=header&text=Pratham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Architect%20%7C%20Security%20Analyst&descAlignY=60&descSize=20&fontColor=00aeff" alt="Header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2000&pause=1000&color=00AEFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;AI+%26+Automation+Architect;Continuous+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=2000&pause=1000&color=00AEFF&center=true&vCenter=true&width=600&lines=Building+Secure+Digital+Infrastructures;Specializing+in+IoT+%26+Cyber+Threat+Intel;Author+of+'The+Pythonic+Journey';Transforming+Coffee+into+Code..." alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=rajpratham1&color=00aeff&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=rajpratham1&color=00aeff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 ---
 
-### ⚡ About Me: The Architect & The Guardian
+### ⚡ System Status: Online
 
 <div align="center">
-<table align="center">
+<table align="center" style="border: none;">
 <tr>
-<td width="50%" align="center">
+<td width="45%" align="center" style="border: none;">
  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Gif"/>
   
 </td>
-<td width="50%" align="left">
+<td width="55%" align="left" style="border: none;">
 
-I am a **Full-Stack Developer** pivoting into **Cyber Security**. I believe in building systems that are not just functional, but **unbreakable**.
+> *"Security is not a product, but a process."*
 
-- 🔭 **I’m currently working on:** <br> **Cyber Threat Intelligence Systems** & **IoT Safety Devices**.
-- 🛡️ **I’m currently learning:** <br> Penetration Testing, Network Security, and **SecOps**.
-- 🤖 **My Workflow:** <br> I combine **Java/Python** architecture with **AI Agents** (Gemini/GPT) to speed up coding by 300%.
-- 💬 **Ask me about:** <br> React, Spring Boot, Flask, or how to secure your web apps.
+I am a **B.Tech CSE Student** at **Invertis University** bridging the gap between software creation and software defense.
+
+- 🔭 **Current Focus:** Developing **Cyber Threat Intelligence Dashboards** and securing IoT infrastructures.
+- 💼 **Experience:** Former **Android Intern @ Google (EduSkills)** & **Web Intern @ CodSoft**.
+- 📚 **Author:** Published technical guides and spiritual literature.
+- 🛡️ **Mission:** To transition from building apps to architecting **unbreakable systems**.
+
+<br/>
+
+<a href="https://linkedin.com/in/pratham-kumar-2a4b151a7"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rajpratham40@gmail.com"><img src="https://img.shields.io/badge/Email_Me-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -44,29 +51,36 @@ I am a **Full-Stack Developer** pivoting into **Cyber Security**. I believe in b
 
 <div align="center">
 
-| **Core Stack** | **Frontend & UI** | **Backend & DB** | **Cyber Security** |
+| **Core Languages** | **Frontend & UI** | **Backend & Security** | **Tools & OS** |
 |:---:|:---:|:---:|:---:|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,cpp,c" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,mysql,mongodb" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kalilinux,linux,bash,git" /></a> |
-
-<br/>
-
-**🤖 AI Copilots I Use Daily**
-
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-1f2328?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,cpp,c" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,mysql,spring" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kalilinux,linux,git,vscode,arduino" /></a> |
 
 </div>
 
 ---
 
-### 🏆 Top Projects
+### 🎖️ Hall of Fame: Certifications & Experience
 
-| 🛡️ Cyber Security | 🚜 IoT & Innovation | 💻 Full Stack Web |
-|:---:|:---:|:---:|
-| **Cyber Threat Intel** | **Smoke Detector** | **Crime Record Portal** |
-| *Visualizing global attacks* | *Hardware Safety Solution* | *Secure Reporting App* |
-| `Python` `Flask` `React` | `Arduino` `C++` `Sensors` | `Java` `Spring` `SQL` |
+<div align="center">
+
+| **Internships** | **Leadership & Hackathons** |
+|:---:|:---:|
+| ![Android](https://img.shields.io/badge/Android_Dev_Intern-Google_x_EduSkills-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Leadership](https://img.shields.io/badge/Discipline_Coordinator-Invertis_University-FFD700?style=for-the-badge&logo=googlescholar&logoColor=black) |
+| ![Web](https://img.shields.io/badge/Web_Dev_Intern-CodSoft-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) | ![Hackathon](https://img.shields.io/badge/SIH_Internal_Hackathon-Backend_Dev-ff5722?style=for-the-badge&logo=hackthebox&logoColor=white) |
+| ![AI](https://img.shields.io/badge/AI_ML_Virtual_Intern-AICTE-FF9900?style=for-the-badge&logo=python&logoColor=white) | ![Volunteer](https://img.shields.io/badge/Job_Fest_Volunteer-Organizer-success?style=for-the-badge&logo=eventbrite&logoColor=white) |
+
+</div>
+
+---
+
+### 📚 Publications
+
+I document my learning journey and creative thoughts into books.
+
+| **The Pythonic Journey** | **Radhashruti (Hindi/Eng)** |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Technical-Book-blue?style=flat-square" /> <br> A beginner's guide to mastering Python, GUI, and Web Development. | <img src="https://img.shields.io/badge/Literature-Spiritual-purple?style=flat-square" /> <br> A poetic saga of Radha and Krishna's divine love and separation. |
+| [**Read on Gumroad**](https://rajpratham.gumroad.com/l/fzzui) | [**Read on Gumroad**](https://rajpratham.gumroad.com/l/kbvfg) |
 
 ---
 
@@ -74,7 +88,7 @@ I am a **Full-Stack Developer** pivoting into **Cyber Security**. I believe in b
 
 <div align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d&rank_icon=github" height="160" alt="stats graph" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" height="160" alt="languages graph" />
 
@@ -89,28 +103,27 @@ I am a **Full-Stack Developer** pivoting into **Cyber Security**. I believe in b
 
 ---
 
-### 🌐 Initialize Connection...
+### ☕ Support My Work
+
+If my open-source projects or books helped you, consider buying me a coffee!
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pratham-kumar-2a4b151a7" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/rajpratham1" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://x.com/prathamshriva18" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://www.instagram.com/pratham.shrivastaw" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:rajpratham40@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+  <a href="https://www.buymeacoffee.com/rajpratham1">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
 
-<br/><br/>
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/UPI_ID-6200892887@ptyes-orange?style=flat-square&logo=bhim&logoColor=white" alt="UPI ID"/>
+  
+  <p><i>(Scan via Paytm, PhonePe, or GPay)</i></p>
 
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
-
+<p align="center">Designed by Pratham Kumar © 2024</p>
 </div>
