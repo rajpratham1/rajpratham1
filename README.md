@@ -32,7 +32,7 @@
 <tr>
 <td width="40%" align="center" style="border: none;">
  
-  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="100%" style="border-radius: 10px;" alt="Cyber GIF"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;" alt="Cyber GIF"/>
   
 </td>
 <td width="60%" align="left" style="border: none;">
@@ -118,26 +118,20 @@ I maintain several live websites and tools for the community.
 ### 📊 Global Surveillance (Stats)
 
 <div align="center">
-<table style="border:none;">
-<tr>
-<td width="50%" style="border:none;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d&rank_icon=github" width="100%" alt="stats graph" />
-</td>
-<td width="50%" style="border:none;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" width="100%" alt="languages graph" />
-</td>
-</tr>
-</table>
+  <img src="https://github-profile-trophy.vercel.app/?username=rajpratham1&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
 </div>
 
-<div align="center">
-  <a href="https://clustrmaps.com/site/1bw1q" title="Visit tracker">
-    <img src="//clustrmaps.com/map_v2.png?cl=0f172a&w=a&t=tt&d=2X_YOUR_CLUSTRMAPS_ID_HERE&co=00aeff&ct=ffffff" />
-  </a>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-contribution-snake.vercel.app/github-contribution-grid-snake.svg?user=rajpratham1&palette=github-dark&color_snake=00aeff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" width="100%" alt="snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d&rank_icon=github" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" height="160" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rajpratham1&theme=tokyonight&hide_border=true&background=0f172a&ring=00aeff&currStreakLabel=00ff9d" width="80%" alt="streak"/>
 </div>
 
 ---
