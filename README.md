@@ -67,98 +67,72 @@ I am a **B.Tech CSE Student** at **Invertis University**, currently bridging the
 
 ---
 
-### 🚀 Professional Experience & Timeline
-
-*Mobile-Optimized Timeline*
-
-#### 📱 Android Developer Intern
-> **Google (via EduSkills)** | *Apr 2025 - Jun 2025*
-> * Gained expertise in Android ecosystem, mobile architecture, and application deployment standards.
-
-#### 💻 Web Developer Intern
-> **CODSOFT** | *Jun 2025 - Jul 2025*
-> * Developed responsive web applications and optimized frontend performance for scalable deployments.
-
-#### 👔 Discipline Coordinator
-> **Invertis University** | *2024 - 2025*
-> * Managed student activities, maintained campus decorum, and led a team of student volunteers.
-
-#### 🏆 Hackathon Participant
-> **SIH Internal Hackathon** | *2025*
-> * Backend development for "HackBhoomi", solving real-world problems under intense time constraints.
-
-#### 🤝 Event Volunteer
-> **Job Fest @ Invertis** | *2024*
-> * Organized and managed logistics for a massive university-level Job Fair spanning 3 days.
-
----
-
-### 📂 Mission Critical Projects
-
-*Select Projects with Tech Stack*
-
-* **🛡️ Cyber Threat Intel** (`React` `Flask` `API`)
-    * A dashboard visualizing live global cyber threats and attack trends in real-time.
-
-* **🔥 Smoke Detector** (`Arduino` `IoT` `C++`)
-    * **Team Lead.** A hardware IoT solution for fire safety and hazard prevention.
-
-* **🏥 MediScan AI** (`Flask` `ML` `Python`)
-    * Breast cancer detection system using Random Forest Classifiers.
-
-* **🚔 Crime Portal** (`Java` `Spring` `SQL`)
-    * A full-stack secure reporting management system for law enforcement.
-
-* **📊 Retail Analytics** (`Python` `Pandas`)
-    * Data analysis project predicting sales trends using Linear Regression.
-
-* **🌾 Agronomy App** (`TensorFlow` `Python`)
-    * Bridging the information gap between agricultural experts and farmers.
-
----
-
-### 🌐 Live Deployments (Websites)
-
-* 🛠️ **[Aether Tools](https://rajpratham1.github.io/Aether-Tools/)** - Multi-utility web suite.
-* 🤝 **[Port Network Hub](https://project-port-network-hub.lovable.app/register)** - HR Project validation network.
-* 📍 **[Skill Connect](https://skillconnect-india-finder.lovable.app/)** - Local professional finder.
-* 🎮 **[Campus Clash](https://v0-campus-clash-game.vercel.app/)** - Gamification platform.
-* 🧠 **[AI Maze](https://v0-new-project-ypz7qhvhpwv.vercel.app/)** - Intelligent Quiz Platform.
-* 💼 **[WebFolio](https://rajpratham1.github.io/WebFolio/)** - My development services portal.
-
----
-
-### 📚 Publications & Authorship
-
-#### 📘 The Pythonic Journey
-<img src="https://img.shields.io/badge/Technical-Book-blue?style=flat-square" />
-A complete beginner's guide to mastering Python, GUI development, and web concepts.
-> [**Read on Gumroad**](https://rajpratham.gumroad.com/l/fzzui)
-
-#### 📕 Radhashruti (Hindi/Eng)
-<img src="https://img.shields.io/badge/Literature-Spiritual-purple?style=flat-square" />
-A poetic saga of Radha and Krishna's divine love, devotion, and separation.
-> [**Read on Gumroad**](https://rajpratham.gumroad.com/l/kbvfg)
-
----
-
-### 📊 Global Surveillance (Stats)
+### 📂 Mission Critical Projects (Visual Gallery)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajpratham1&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+
+| 🛡️ **Cyber Threat Intel** | 🔥 **IoT Smoke Detector** |
+|:---:|:---:|
+| <img src="https://cdn.dribbble.com/users/1731254/screenshots/11842679/media/3d3790ae9e290243f2b262dfa269469f.png" width="300" height="180" style="border-radius:10px;" /> | <img src="https://cdn.dribbble.com/users/236307/screenshots/16379076/media/c709c49b3423606c60223b3969463364.jpg" width="300" height="180" style="border-radius:10px;" /> |
+| **Tech:** `React` `Flask` `API` <br> Visualizing live global cyber threats and attack trends. | **Tech:** `Arduino` `IoT` `C++` <br> **Team Lead.** A hardware IoT solution for fire safety. |
+
+| 🏥 **MediScan AI** | 🚔 **Crime Portal** |
+|:---:|:---:|
+| <img src="https://cdn.dribbble.com/users/4208523/screenshots/16377920/media/a80297d9d424692037b733290003a34e.png" width="300" height="180" style="border-radius:10px;" /> | <img src="https://cdn.dribbble.com/users/1615584/screenshots/15710288/media/8c0977dfb034f9fb620a3366871d2a75.jpg" width="300" height="180" style="border-radius:10px;" /> |
+| **Tech:** `Flask` `ML` `Python` <br> Breast cancer detection system using Random Forest. | **Tech:** `Java` `Spring` `SQL` <br> Secure reporting management system for law enforcement. |
+
 </div>
 
-<br/>
+---
+
+### 🚀 Professional Experience
+
+| **Role & Company** | **Timeline** | **Impact / Details** |
+| :--- | :--- | :--- |
+| 📱 **Android Intern** <br> *Google (via EduSkills)* | Apr - Jun 2025 | Gained expertise in Android ecosystem & architecture. |
+| 💻 **Web Dev Intern** <br> *CODSOFT* | Jun - Jul 2025 | Developed responsive web apps & optimized frontend. |
+| 👔 **Discipline Coordinator** <br> *Invertis University* | 2024 - 2025 | Managed student activities & campus decorum. |
+| 🏆 **Hackathon Participant** <br> *SIH Internal* | 2025 | Backend dev for "HackBhoomi", solving real-world issues. |
+
+---
+
+### 🌐 Live Ecosystem (Websites)
 
 <div align="center">
+
+| 🛠️ **[Aether Tools](https://rajpratham1.github.io/Aether-Tools/)** | 🤝 **[Port Network](https://project-port-network-hub.lovable.app/register)** | 📍 **[Skill Connect](https://skillconnect-india-finder.lovable.app/)** |
+| :---: | :---: | :---: |
+| 🎮 **[Campus Clash](https://v0-campus-clash-game.vercel.app/)** | 🧠 **[AI Maze](https://v0-new-project-ypz7qhvhpwv.vercel.app/)** | 💼 **[WebFolio](https://rajpratham1.github.io/WebFolio/)** |
+
+</div>
+
+---
+
+### 📚 Publications
+
+| **The Pythonic Journey** | **Radhashruti (Hindi/Eng)** |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Technical-Book-blue?style=flat-square" /> <br> Beginner's guide to Python & GUI. | <img src="https://img.shields.io/badge/Literature-Spiritual-purple?style=flat-square" /> <br> A poetic saga of Radha & Krishna. |
+| [**Read on Gumroad**](https://rajpratham.gumroad.com/l/fzzui) | [**Read on Gumroad**](https://rajpratham.gumroad.com/l/kbvfg) |
+
+---
+
+### 📊 Global Surveillance (3D Isometric Stats)
+
+<div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d&rank_icon=github" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" height="160" alt="languages graph" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=rajpratham1&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rajpratham1&theme=tokyonight&hide_border=true&background=0f172a&ring=00aeff&currStreakLabel=00ff9d" width="80%" alt="streak"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
 ---
