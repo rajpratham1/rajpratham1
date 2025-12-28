@@ -1,9 +1,9 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Pratham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Architecting%20Secure%20Systems%20%7C%20Full%20Stack%20Override&descAlignY=60&descSize=20&fontColor=00aeff" alt="Header" width="100%"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Pratham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20FluxSites%20%7C%20Building%20BilloraX&descAlignY=60&descSize=20&fontColor=00aeff" alt="Header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00AEFF&center=true&vCenter=true&width=700&lines=Initializing+Cyber+Defense+Protocols...;Deploying+Full+Stack+Architecture...;Executing+AI+Threat+Analysis...;System+Status:+ONLINE." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00AEFF&center=true&vCenter=true&width=700&lines=Founder+of+FluxSites;Architecting+BilloraX+Billing+Engine;Lead+Developer+%40+AstraTech;Building+Pravi+Marketplace;System+Status:+ONLINE." alt="Typing SVG" />
   </a>
 
   <br/>
@@ -33,13 +33,13 @@
 
 <br/>
 
-I am a **B.Tech CSE Student** at **Invertis University**, currently bridging the gap between creative software development and rigorous cyber defense. I don't just write code; I build systems that are resilient, scalable, and secure.
+I am a **B.Tech CSE Student** at **Invertis University** and the Founder of **FluxSites**. My focus has shifted from simple coding to architecting complete business solutions like **BilloraX** and **Pravi**.
 
-* 🔄 **Continuous Innovation:** I am always working on multiple projects. The moment I finish one, I am already architecting the next.
-* 🔐 **Security Focus:** My goal is to evolve from building apps that *work* to building apps that are **unbreakable**.
-* ⚡ **AI-Augmented Workflow:** I leverage LLMs and AI models to accelerate development, focusing entirely on complex logic and architecture.
+* 🚀 **Entrepreneurial Mindset:** Currently scaling **FluxSites** and leading the **AstraTech** development team.
+* 🔐 **Secure Architecture:** I build systems that are resilient, scalable, and business-ready.
+* ☁️ **Cloud Native:** Leveraging Snowflake and Cloud tech to handle complex data operations (e.g., Hack2Skill projects).
 
-> *"Security is not an add-on, it's the foundation."*
+> *"Building logic that drives business, not just code that runs."*
 
 ---
 
@@ -59,9 +59,9 @@ I am a **B.Tech CSE Student** at **Invertis University**, currently bridging the
 <br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,mysql,spring" /></a>
 
-**Cyber Ops**
+**DevOps & Tools**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kalilinux,linux,bash,git,github" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kalilinux,linux,git,github,vscode" /></a>
 
 </div>
 
@@ -71,6 +71,11 @@ I am a **B.Tech CSE Student** at **Invertis University**, currently bridging the
 
 *Mobile-Optimized Timeline*
 
+#### 🏢 Founder & Lead Developer
+> **FluxSites** | *Dec 2025 - Present*
+> * Leading a team to provide top-tier web solutions.
+> * Hiring interns and managing client projects for business growth.
+
 #### 📱 Android Developer Intern
 > **Google (via EduSkills)** | *Apr 2025 - Jun 2025*
 > * Gained expertise in Android ecosystem, mobile architecture, and application deployment standards.
@@ -79,52 +84,42 @@ I am a **B.Tech CSE Student** at **Invertis University**, currently bridging the
 > **CODSOFT** | *Jun 2025 - Jul 2025*
 > * Developed responsive web applications and optimized frontend performance for scalable deployments.
 
-#### 👔 Discipline Coordinator
-> **Invertis University** | *2024 - 2025*
-> * Managed student activities, maintained campus decorum, and led a team of student volunteers.
-
-#### 🏆 Hackathon Participant
-> **SIH Internal Hackathon** | *2025*
-> * Backend development for "HackBhoomi", solving real-world problems under intense time constraints.
-
-#### 🤝 Event Volunteer
-> **Job Fest @ Invertis** | *2024*
-> * Organized and managed logistics for a massive university-level Job Fair spanning 3 days.
+#### 🏆 Hackathon Innovation
+> **Snowflake Hack2Skill** | *Dec 2025*
+> * Developed "AID_OPS_PACKAGE", a native app utilizing Snowflake for optimized operations.
 
 ---
 
 ### 📂 Mission Critical Projects
 
-*Select Projects with Tech Stack*
+*Featured Projects*
 
-* **🛡️ Cyber Threat Intel** (`React` `Flask` `API`)
+* **🧾 BilloraX** (Smart Business Logic)
+    * A comprehensive Billing and Inventory Management platform designed for modern businesses. Features smart invoicing, stock tracking, and automated reporting.
+
+* **🛒 Pravi** (Digital Marketplace)
+    * A specialized marketplace for buying and selling ready-made websites. A platform connecting developers with business owners.
+
+* **💼 WebFolio** (Service Portal)
+    * The official service portal for my web development offerings, showcasing professional solutions.
+
+* **🛡️ Cyber Threat Intel** (`React` `Flask`)
     * A dashboard visualizing live global cyber threats and attack trends in real-time.
 
-* **🔥 Smoke Detector** (`Arduino` `IoT` `C++`)
-    * **Team Lead.** A hardware IoT solution for fire safety and hazard prevention.
+* **🏥 MediScan AI** (`Flask` `ML`)
+    * Breast cancer detection system using Random Forest Classifiers for early diagnosis.
 
-* **🏥 MediScan AI** (`Flask` `ML` `Python`)
-    * Breast cancer detection system using Random Forest Classifiers.
-
-* **🚔 Crime Portal** (`Java` `Spring` `SQL`)
+* **🚔 Crime Portal** (`Java` `Spring`)
     * A full-stack secure reporting management system for law enforcement.
-
-* **📊 Retail Analytics** (`Python` `Pandas`)
-    * Data analysis project predicting sales trends using Linear Regression.
-
-* **🌾 Agronomy App** (`TensorFlow` `Python`)
-    * Bridging the information gap between agricultural experts and farmers.
 
 ---
 
-### 🌐 Live Deployments (Websites)
+### 🌐 Live Deployments
 
 * 🛠️ **[Aether Tools](https://rajpratham1.github.io/Aether-Tools/)** - Multi-utility web suite.
 * 🤝 **[Port Network Hub](https://project-port-network-hub.lovable.app/register)** - HR Project validation network.
 * 📍 **[Skill Connect](https://skillconnect-india-finder.lovable.app/)** - Local professional finder.
 * 🎮 **[Campus Clash](https://v0-campus-clash-game.vercel.app/)** - Gamification platform.
-* 🧠 **[AI Maze](https://v0-new-project-ypz7qhvhpwv.vercel.app/)** - Intelligent Quiz Platform.
-* 💼 **[WebFolio](https://rajpratham1.github.io/WebFolio/)** - My development services portal.
 
 ---
 
@@ -177,5 +172,5 @@ If my open-source work or books have helped you, fuel my next commit with a coff
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
-<p align="center">Designed & Developed by Pratham Kumar © 2024</p>
+<p align="center">Designed & Developed by Pratham Kumar © 2025</p>
 </div>
