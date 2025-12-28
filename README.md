@@ -57,11 +57,11 @@ I am a **B.Tech CSE Student** at **Invertis University** and the Founder of **Fl
 
 **Backend & Cloud**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,mysql,spring" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,flask,firebase,mysql,spring,snowflake" /></a>
 
 **DevOps & Tools**
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kalilinux,linux,git,github,vscode" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kalilinux,linux,git,github,vscode,androidstudio" /></a>
 
 </div>
 
@@ -137,6 +137,13 @@ A poetic saga of Radha and Krishna's divine love, devotion, and separation.
 
 ---
 
+### ⚡ System Activity Log
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajpratham1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+<br/>
+
 ### 📊 Global Surveillance (Stats)
 
 <div align="center">
@@ -173,4 +180,5 @@ If my open-source work or books have helped you, fuel my next commit with a coff
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer"/>
 <p align="center">Designed & Developed by Pratham Kumar © 2025</p>
+<img src="https://profile-counter.glitch.me/rajpratham1/count.svg" alt="visitor count" />
 </div>
