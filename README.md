@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Pratham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20FluxSites%20%7C%20Building%20BilloraX&descAlignY=60&descSize=20&fontColor=00aeff" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Pratham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20BilloraX%20%7C%20Full%20Stack%20Architect&descAlignY=60&descSize=20&fontColor=00aeff" alt="Header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00AEFF&center=true&vCenter=true&width=700&lines=Founder+of+FluxSites;Architecting+BilloraX+Billing+Engine;Lead+Developer+%40+AstraTech;Building+Pravi+Marketplace;System+Status:+ONLINE." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00AEFF&center=true&vCenter=true&width=700&lines=Founder+of+BilloraX;Architecting+Next+Gen+Billing+Engine;Lead+Developer+%40+AstraTech;Building+Pravi+Marketplace;System+Status:+ONLINE." alt="Typing SVG" />
   </a>
 
   <br/>
@@ -33,9 +33,9 @@
 
 <br/>
 
-I am a **B.Tech CSE Student** at **Invertis University** and the Founder of **FluxSites**. My focus has shifted from simple coding to architecting complete business solutions like **BilloraX** and **Pravi**.
+I am a **B.Tech CSE Student** at **Invertis University** and the Founder of **BilloraX**. My focus has shifted from simple coding to architecting complete business solutions and scalable marketplaces like **Pravi**.
 
-* 🚀 **Entrepreneurial Mindset:** Currently scaling **FluxSites** and leading the **AstraTech** development team.
+* 🚀 **Entrepreneurial Mindset:** Currently scaling **BilloraX** into a full-fledged billing ecosystem.
 * 🔐 **Secure Architecture:** I build systems that are resilient, scalable, and business-ready.
 * ☁️ **Cloud Native:** Leveraging Snowflake and Cloud tech to handle complex data operations (e.g., Hack2Skill projects).
 
@@ -72,9 +72,9 @@ I am a **B.Tech CSE Student** at **Invertis University** and the Founder of **Fl
 *Mobile-Optimized Timeline*
 
 #### 🏢 Founder & Lead Developer
-> **FluxSites** | *Dec 2025 - Present*
-> * Leading a team to provide top-tier web solutions.
-> * Hiring interns and managing client projects for business growth.
+> **BilloraX** | *Dec 2025 - Present*
+> * Architecting a smart billing and inventory management platform.
+> * Leading the development of automated invoicing and stock tracking features.
 
 #### 📱 Android Developer Intern
 > **Google (via EduSkills)** | *Apr 2025 - Jun 2025*
@@ -95,7 +95,7 @@ I am a **B.Tech CSE Student** at **Invertis University** and the Founder of **Fl
 *Featured Projects*
 
 * **🧾 BilloraX** (Smart Business Logic)
-    * A comprehensive Billing and Inventory Management platform designed for modern businesses. Features smart invoicing, stock tracking, and automated reporting.
+    * **Founder & Architect.** A comprehensive Billing and Inventory Management platform designed for modern businesses. Features smart invoicing, stock tracking, and automated reporting.
 
 * **🛒 Pravi** (Digital Marketplace)
     * A specialized marketplace for buying and selling ready-made websites. A platform connecting developers with business owners.
