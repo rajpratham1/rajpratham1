@@ -33,7 +33,7 @@
 
 <br/>
 
-I am a **B.Tech CSE Student** at **Invertis University** and the Founder of **BilloraX**. My focus has shifted from simple coding to architecting complete business solutions and scalable marketplaces like **Pravi**.
+I am a **B.Tech CSE Student** at **Invertis University** and the Full Stack intern on **BilloraX**. My focus has shifted from simple coding to architecting complete business solutions and scalable marketplaces like **Pravi**.
 
 * 🚀 **Entrepreneurial Mindset:** Currently scaling **BilloraX** into a full-fledged billing ecosystem.
 * 🔐 **Secure Architecture:** I build systems that are resilient, scalable, and business-ready.
