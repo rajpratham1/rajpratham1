@@ -1,9 +1,9 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Pratham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20BilloraX%20%7C%20Full%20Stack%20Architect&descAlignY=60&descSize=20&fontColor=00aeff" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Pratham%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Intern%20%40%20BilloraX%20%7C%20Full%20Stack%20Architect&descAlignY=60&descSize=20&fontColor=00aeff" alt="Header" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00AEFF&center=true&vCenter=true&width=700&lines=Founder+of+BilloraX;Architecting+Next+Gen+Billing+Engine;Lead+Developer+%40+AstraTech;Building+Pravi+Marketplace;System+Status:+ONLINE." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=1500&pause=1000&color=00AEFF&center=true&vCenter=true&width=700&lines=Intern+on+BilloraX;Architecting+Next+Gen+Billing+Engine;Lead+Developer+%40+AstraTech;Building+Pravi+Marketplace;System+Status:+ONLINE." alt="Typing SVG" />
   </a>
 
   <br/>
