@@ -146,15 +146,13 @@ A poetic saga of Radha and Krishna's divine love, devotion, and separation.
 
 ### 📊 Global Surveillance (Stats)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajpratham1&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="trophies" />
-</div>
+
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d&rank_icon=github" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" height="160" alt="languages graph" />
+  <img src="https://readmestate.vercel.app/api?username=rajpratham1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff&icon_color=00ff9d&rank_icon=github" height="160" alt="stats graph" />
+  <img src="https://readmestate.vercel.app/api?username=rajpratham1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00aeff" height="160" alt="languages graph" />
 </div>
 
 <br/>
