@@ -1,17 +1,26 @@
-# BilloraX
+# Professional Profile
 
-BilloraX is an innovative solution that aims to streamline your daily operations and enhance productivity.
-
-## Features
-- User-friendly interface  
-- Real-time data analysis  
-- Automated reporting tools  
+## BilloraX - Main Project
+*Describe the BilloraX project here, detailing its features, goals, and significance in your professional journey.*
 
 ## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajpratham1)
+*Include your GitHub trophies and achievements here, showcasing your contributions and recognitions.*
 
-## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=radical)
+## Live Deployments
+*List any live deployments you have in connection with BilloraX, detailing their URLs and purpose.*
 
-## Portfolio
-Visit my portfolio at [rajpratham1.github.io/my-portfolio](https://rajpratham1.github.io/my-portfolio/)
+## Professional Experience
+*Detail your professional experiences, focusing on roles and responsibilities that relate to BilloraX and include any relevant metrics.*
+
+## Technical Arsenal
+*List the technologies, programming languages, and tools you are proficient in that are relevant to BilloraX.*
+
+## Social Links
+*Include links to your professional profiles (LinkedIn, Twitter, personal website, etc.) here.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&count_private=true&hide=prs&theme=radical)  
+![Activity Graph](https://github-readme-stats.vercel.app/api/wakatime?username=rajpratham1&theme=radical)  
+
+**Portfolio Link:** [Insert your portfolio link here]  
+
+---
