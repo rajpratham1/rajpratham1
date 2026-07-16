@@ -1,0 +1,221 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020c0a"/>
+      <stop offset="100%" stop-color="#01110d"/>
+    </linearGradient>
+    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00ff9d" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00ff9d" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00ff9d" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect x="0" y="0" width="900" height="260" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="260" fill="url(#bgGrad)"/>
+
+    <!-- matrix rain -->
+    <g>
+    <text x="5" y="-40" class="rain" fill="#00ff9d" opacity="0.14" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='5' dy='16'>0</tspan><tspan x='5' dy='16'>サ</tspan><tspan x='5' dy='16'>#</tspan><tspan x='5' dy='16'>カ</tspan><tspan x='5' dy='16'>[</tspan><tspan x='5' dy='16'>#</tspan><tspan x='5' dy='16'>&gt;</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.95s" begin="4.45s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.14;0.14;0" keyTimes="0;0.1;0.8;1" dur="3.95s" begin="4.45s" repeatCount="indefinite"/>
+    </text>
+    <text x="31" y="-40" class="rain" fill="#00ff9d" opacity="0.28" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='31' dy='16'>&lt;</tspan><tspan x='31' dy='16'>{</tspan><tspan x='31' dy='16'>0</tspan><tspan x='31' dy='16'>&gt;</tspan><tspan x='31' dy='16'>ナ</tspan><tspan x='31' dy='16'>]</tspan><tspan x='31' dy='16'>}</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.63s" begin="0.56s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.28;0.28;0" keyTimes="0;0.1;0.8;1" dur="3.63s" begin="0.56s" repeatCount="indefinite"/>
+    </text>
+    <text x="61" y="-40" class="rain" fill="#00ff9d" opacity="0.2" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='61' dy='16'>1</tspan><tspan x='61' dy='16'>0</tspan><tspan x='61' dy='16'>$</tspan><tspan x='61' dy='16'>%</tspan><tspan x='61' dy='16'>タ</tspan><tspan x='61' dy='16'>]</tspan><tspan x='61' dy='16'>ワ</tspan><tspan x='61' dy='16'>マ</tspan><tspan x='61' dy='16'>1</tspan><tspan x='61' dy='16'>サ</tspan><tspan x='61' dy='16'>ナ</tspan><tspan x='61' dy='16'>$</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="4.38s" begin="3.54s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.2;0.2;0" keyTimes="0;0.1;0.8;1" dur="4.38s" begin="3.54s" repeatCount="indefinite"/>
+    </text>
+    <text x="86" y="-40" class="rain" fill="#00ff9d" opacity="0.34" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='86' dy='16'>{</tspan><tspan x='86' dy='16'>1</tspan><tspan x='86' dy='16'>%</tspan><tspan x='86' dy='16'>1</tspan><tspan x='86' dy='16'>#</tspan><tspan x='86' dy='16'>0</tspan><tspan x='86' dy='16'>&gt;</tspan><tspan x='86' dy='16'>カ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="5.02s" begin="2.15s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.34;0.34;0" keyTimes="0;0.1;0.8;1" dur="5.02s" begin="2.15s" repeatCount="indefinite"/>
+    </text>
+    <text x="121" y="-40" class="rain" fill="#00ff9d" opacity="0.19" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='121' dy='16'>{</tspan><tspan x='121' dy='16'>1</tspan><tspan x='121' dy='16'>ヤ</tspan><tspan x='121' dy='16'>/</tspan><tspan x='121' dy='16'>ナ</tspan><tspan x='121' dy='16'>]</tspan><tspan x='121' dy='16'>ア</tspan><tspan x='121' dy='16'>1</tspan><tspan x='121' dy='16'>[</tspan><tspan x='121' dy='16'>0</tspan><tspan x='121' dy='16'>$</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.82s" begin="1.76s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.19;0.19;0" keyTimes="0;0.1;0.8;1" dur="3.82s" begin="1.76s" repeatCount="indefinite"/>
+    </text>
+    <text x="146" y="-40" class="rain" fill="#00ff9d" opacity="0.27" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='146' dy='16'>1</tspan><tspan x='146' dy='16'>0</tspan><tspan x='146' dy='16'>}</tspan><tspan x='146' dy='16'>0</tspan><tspan x='146' dy='16'>ヤ</tspan><tspan x='146' dy='16'>タ</tspan><tspan x='146' dy='16'>ヤ</tspan><tspan x='146' dy='16'>ヤ</tspan><tspan x='146' dy='16'>ナ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="6.92s" begin="5.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.27;0.27;0" keyTimes="0;0.1;0.8;1" dur="6.92s" begin="5.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="185" y="-40" class="rain" fill="#00ff9d" opacity="0.35" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='185' dy='16'>&gt;</tspan><tspan x='185' dy='16'>#</tspan><tspan x='185' dy='16'>0</tspan><tspan x='185' dy='16'>タ</tspan><tspan x='185' dy='16'>0</tspan><tspan x='185' dy='16'>ラ</tspan><tspan x='185' dy='16'>1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="6.09s" begin="3.65s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.35;0.35;0" keyTimes="0;0.1;0.8;1" dur="6.09s" begin="3.65s" repeatCount="indefinite"/>
+    </text>
+    <text x="215" y="-40" class="rain" fill="#00ff9d" opacity="0.19" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='215' dy='16'>0</tspan><tspan x='215' dy='16'>$</tspan><tspan x='215' dy='16'>$</tspan><tspan x='215' dy='16'>1</tspan><tspan x='215' dy='16'>0</tspan><tspan x='215' dy='16'>0</tspan><tspan x='215' dy='16'>1</tspan><tspan x='215' dy='16'>%</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="6.25s" begin="1.32s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.19;0.19;0" keyTimes="0;0.1;0.8;1" dur="6.25s" begin="1.32s" repeatCount="indefinite"/>
+    </text>
+    <text x="239" y="-40" class="rain" fill="#00ff9d" opacity="0.15" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='239' dy='16'>]</tspan><tspan x='239' dy='16'>マ</tspan><tspan x='239' dy='16'>ナ</tspan><tspan x='239' dy='16'>}</tspan><tspan x='239' dy='16'>1</tspan><tspan x='239' dy='16'>ラ</tspan><tspan x='239' dy='16'>}</tspan><tspan x='239' dy='16'>0</tspan><tspan x='239' dy='16'>サ</tspan><tspan x='239' dy='16'>1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.76s" begin="5.48s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.15;0.15;0" keyTimes="0;0.1;0.8;1" dur="3.76s" begin="5.48s" repeatCount="indefinite"/>
+    </text>
+    <text x="273" y="-40" class="rain" fill="#00ff9d" opacity="0.13" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='273' dy='16'>/</tspan><tspan x='273' dy='16'>ラ</tspan><tspan x='273' dy='16'>ヤ</tspan><tspan x='273' dy='16'>0</tspan><tspan x='273' dy='16'>サ</tspan><tspan x='273' dy='16'>&lt;</tspan><tspan x='273' dy='16'>1</tspan><tspan x='273' dy='16'>ア</tspan><tspan x='273' dy='16'>$</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="5.66s" begin="4.48s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.13;0.13;0" keyTimes="0;0.1;0.8;1" dur="5.66s" begin="4.48s" repeatCount="indefinite"/>
+    </text>
+    <text x="296" y="-40" class="rain" fill="#00ff9d" opacity="0.34" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='296' dy='16'>ワ</tspan><tspan x='296' dy='16'>{</tspan><tspan x='296' dy='16'>ア</tspan><tspan x='296' dy='16'>ラ</tspan><tspan x='296' dy='16'>ラ</tspan><tspan x='296' dy='16'>{</tspan><tspan x='296' dy='16'>0</tspan><tspan x='296' dy='16'>&lt;</tspan><tspan x='296' dy='16'>1</tspan><tspan x='296' dy='16'>&gt;</tspan><tspan x='296' dy='16'>1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="4.11s" begin="0.96s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.34;0.34;0" keyTimes="0;0.1;0.8;1" dur="4.11s" begin="0.96s" repeatCount="indefinite"/>
+    </text>
+    <text x="335" y="-40" class="rain" fill="#00ff9d" opacity="0.12" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='335' dy='16'>$</tspan><tspan x='335' dy='16'>1</tspan><tspan x='335' dy='16'>$</tspan><tspan x='335' dy='16'>}</tspan><tspan x='335' dy='16'>マ</tspan><tspan x='335' dy='16'>カ</tspan><tspan x='335' dy='16'>ハ</tspan><tspan x='335' dy='16'>ワ</tspan><tspan x='335' dy='16'>タ</tspan><tspan x='335' dy='16'>0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="6.38s" begin="4.09s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.12;0.12;0" keyTimes="0;0.1;0.8;1" dur="6.38s" begin="4.09s" repeatCount="indefinite"/>
+    </text>
+    <text x="359" y="-40" class="rain" fill="#00ff9d" opacity="0.21" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='359' dy='16'>カ</tspan><tspan x='359' dy='16'>1</tspan><tspan x='359' dy='16'>}</tspan><tspan x='359' dy='16'>ハ</tspan><tspan x='359' dy='16'>0</tspan><tspan x='359' dy='16'>}</tspan><tspan x='359' dy='16'>&lt;</tspan><tspan x='359' dy='16'>{</tspan><tspan x='359' dy='16'>ナ</tspan><tspan x='359' dy='16'>サ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="7.39s" begin="4.57s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.21;0.21;0" keyTimes="0;0.1;0.8;1" dur="7.39s" begin="4.57s" repeatCount="indefinite"/>
+    </text>
+    <text x="387" y="-40" class="rain" fill="#00ff9d" opacity="0.18" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='387' dy='16'>0</tspan><tspan x='387' dy='16'>{</tspan><tspan x='387' dy='16'>マ</tspan><tspan x='387' dy='16'>1</tspan><tspan x='387' dy='16'>0</tspan><tspan x='387' dy='16'>カ</tspan><tspan x='387' dy='16'>ヤ</tspan><tspan x='387' dy='16'>0</tspan><tspan x='387' dy='16'>%</tspan><tspan x='387' dy='16'>ハ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="5.66s" begin="4.67s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.18;0.18;0" keyTimes="0;0.1;0.8;1" dur="5.66s" begin="4.67s" repeatCount="indefinite"/>
+    </text>
+    <text x="418" y="-40" class="rain" fill="#00ff9d" opacity="0.3" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='418' dy='16'>#</tspan><tspan x='418' dy='16'>1</tspan><tspan x='418' dy='16'>0</tspan><tspan x='418' dy='16'>ア</tspan><tspan x='418' dy='16'>$</tspan><tspan x='418' dy='16'>&gt;</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="7.01s" begin="5.68s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.3;0.3;0" keyTimes="0;0.1;0.8;1" dur="7.01s" begin="5.68s" repeatCount="indefinite"/>
+    </text>
+    <text x="447" y="-40" class="rain" fill="#00ff9d" opacity="0.29" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='447' dy='16'>1</tspan><tspan x='447' dy='16'>&lt;</tspan><tspan x='447' dy='16'>1</tspan><tspan x='447' dy='16'>{</tspan><tspan x='447' dy='16'>ワ</tspan><tspan x='447' dy='16'>ナ</tspan><tspan x='447' dy='16'>&gt;</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="6.14s" begin="5.68s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.29;0.29;0" keyTimes="0;0.1;0.8;1" dur="6.14s" begin="5.68s" repeatCount="indefinite"/>
+    </text>
+    <text x="478" y="-40" class="rain" fill="#00ff9d" opacity="0.26" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='478' dy='16'>}</tspan><tspan x='478' dy='16'>ヤ</tspan><tspan x='478' dy='16'>0</tspan><tspan x='478' dy='16'>&lt;</tspan><tspan x='478' dy='16'>0</tspan><tspan x='478' dy='16'>カ</tspan><tspan x='478' dy='16'>0</tspan><tspan x='478' dy='16'>0</tspan><tspan x='478' dy='16'>ア</tspan><tspan x='478' dy='16'>マ</tspan><tspan x='478' dy='16'>0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="6.35s" begin="2.39s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.26;0.26;0" keyTimes="0;0.1;0.8;1" dur="6.35s" begin="2.39s" repeatCount="indefinite"/>
+    </text>
+    <text x="508" y="-40" class="rain" fill="#00ff9d" opacity="0.27" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='508' dy='16'>}</tspan><tspan x='508' dy='16'>1</tspan><tspan x='508' dy='16'>0</tspan><tspan x='508' dy='16'>ア</tspan><tspan x='508' dy='16'>1</tspan><tspan x='508' dy='16'>1</tspan><tspan x='508' dy='16'>マ</tspan><tspan x='508' dy='16'>ア</tspan><tspan x='508' dy='16'>&lt;</tspan><tspan x='508' dy='16'>0</tspan><tspan x='508' dy='16'>1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="5.85s" begin="0.04s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.27;0.27;0" keyTimes="0;0.1;0.8;1" dur="5.85s" begin="0.04s" repeatCount="indefinite"/>
+    </text>
+    <text x="538" y="-40" class="rain" fill="#00ff9d" opacity="0.27" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='538' dy='16'>/</tspan><tspan x='538' dy='16'>1</tspan><tspan x='538' dy='16'>0</tspan><tspan x='538' dy='16'>%</tspan><tspan x='538' dy='16'>1</tspan><tspan x='538' dy='16'>%</tspan><tspan x='538' dy='16'>ワ</tspan><tspan x='538' dy='16'>ナ</tspan><tspan x='538' dy='16'>カ</tspan><tspan x='538' dy='16'>カ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="5.66s" begin="4.34s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.27;0.27;0" keyTimes="0;0.1;0.8;1" dur="5.66s" begin="4.34s" repeatCount="indefinite"/>
+    </text>
+    <text x="570" y="-40" class="rain" fill="#00ff9d" opacity="0.15" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='570' dy='16'>1</tspan><tspan x='570' dy='16'>[</tspan><tspan x='570' dy='16'>}</tspan><tspan x='570' dy='16'>}</tspan><tspan x='570' dy='16'>カ</tspan><tspan x='570' dy='16'>1</tspan><tspan x='570' dy='16'>ラ</tspan><tspan x='570' dy='16'>#</tspan><tspan x='570' dy='16'>マ</tspan><tspan x='570' dy='16'>%</tspan><tspan x='570' dy='16'>1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="5.19s" begin="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.15;0.15;0" keyTimes="0;0.1;0.8;1" dur="5.19s" begin="2.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="598" y="-40" class="rain" fill="#00ff9d" opacity="0.32" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='598' dy='16'>タ</tspan><tspan x='598' dy='16'>1</tspan><tspan x='598' dy='16'>0</tspan><tspan x='598' dy='16'>0</tspan><tspan x='598' dy='16'>1</tspan><tspan x='598' dy='16'>ア</tspan><tspan x='598' dy='16'>0</tspan><tspan x='598' dy='16'>%</tspan><tspan x='598' dy='16'>1</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="4.26s" begin="2.69s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.32;0.32;0" keyTimes="0;0.1;0.8;1" dur="4.26s" begin="2.69s" repeatCount="indefinite"/>
+    </text>
+    <text x="626" y="-40" class="rain" fill="#00ff9d" opacity="0.33" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='626' dy='16'>0</tspan><tspan x='626' dy='16'>ア</tspan><tspan x='626' dy='16'>$</tspan><tspan x='626' dy='16'>1</tspan><tspan x='626' dy='16'>0</tspan><tspan x='626' dy='16'>タ</tspan><tspan x='626' dy='16'>ワ</tspan><tspan x='626' dy='16'>1</tspan><tspan x='626' dy='16'>1</tspan><tspan x='626' dy='16'>ナ</tspan><tspan x='626' dy='16'>1</tspan><tspan x='626' dy='16'>ラ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.7s" begin="6.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.33;0.33;0" keyTimes="0;0.1;0.8;1" dur="3.7s" begin="6.0s" repeatCount="indefinite"/>
+    </text>
+    <text x="657" y="-40" class="rain" fill="#00ff9d" opacity="0.25" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='657' dy='16'>%</tspan><tspan x='657' dy='16'>%</tspan><tspan x='657' dy='16'>0</tspan><tspan x='657' dy='16'>ハ</tspan><tspan x='657' dy='16'>ワ</tspan><tspan x='657' dy='16'>]</tspan><tspan x='657' dy='16'>#</tspan><tspan x='657' dy='16'>%</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="5.02s" begin="5.91s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.25;0.25;0" keyTimes="0;0.1;0.8;1" dur="5.02s" begin="5.91s" repeatCount="indefinite"/>
+    </text>
+    <text x="692" y="-40" class="rain" fill="#00ff9d" opacity="0.13" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='692' dy='16'>/</tspan><tspan x='692' dy='16'>#</tspan><tspan x='692' dy='16'>&gt;</tspan><tspan x='692' dy='16'>1</tspan><tspan x='692' dy='16'>#</tspan><tspan x='692' dy='16'>マ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="4.12s" begin="1.78s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.13;0.13;0" keyTimes="0;0.1;0.8;1" dur="4.12s" begin="1.78s" repeatCount="indefinite"/>
+    </text>
+    <text x="724" y="-40" class="rain" fill="#00ff9d" opacity="0.32" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='724' dy='16'>タ</tspan><tspan x='724' dy='16'>1</tspan><tspan x='724' dy='16'>&lt;</tspan><tspan x='724' dy='16'>ア</tspan><tspan x='724' dy='16'>1</tspan><tspan x='724' dy='16'>タ</tspan><tspan x='724' dy='16'>ア</tspan><tspan x='724' dy='16'>{</tspan><tspan x='724' dy='16'>ア</tspan><tspan x='724' dy='16'>[</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="5.41s" begin="5.52s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.32;0.32;0" keyTimes="0;0.1;0.8;1" dur="5.41s" begin="5.52s" repeatCount="indefinite"/>
+    </text>
+    <text x="751" y="-40" class="rain" fill="#00ff9d" opacity="0.25" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='751' dy='16'>/</tspan><tspan x='751' dy='16'>{</tspan><tspan x='751' dy='16'>1</tspan><tspan x='751' dy='16'>{</tspan><tspan x='751' dy='16'>ア</tspan><tspan x='751' dy='16'>ワ</tspan><tspan x='751' dy='16'>[</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.98s" begin="5.34s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.25;0.25;0" keyTimes="0;0.1;0.8;1" dur="3.98s" begin="5.34s" repeatCount="indefinite"/>
+    </text>
+    <text x="783" y="-40" class="rain" fill="#00ff9d" opacity="0.33" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='783' dy='16'>]</tspan><tspan x='783' dy='16'>マ</tspan><tspan x='783' dy='16'>0</tspan><tspan x='783' dy='16'>1</tspan><tspan x='783' dy='16'>ラ</tspan><tspan x='783' dy='16'>サ</tspan><tspan x='783' dy='16'>[</tspan><tspan x='783' dy='16'>}</tspan><tspan x='783' dy='16'>ハ</tspan><tspan x='783' dy='16'>0</tspan><tspan x='783' dy='16'>マ</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="4.77s" begin="1.56s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.33;0.33;0" keyTimes="0;0.1;0.8;1" dur="4.77s" begin="1.56s" repeatCount="indefinite"/>
+    </text>
+    <text x="806" y="-40" class="rain" fill="#00ff9d" opacity="0.2" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='806' dy='16'>カ</tspan><tspan x='806' dy='16'>ア</tspan><tspan x='806' dy='16'>&gt;</tspan><tspan x='806' dy='16'>ナ</tspan><tspan x='806' dy='16'>&lt;</tspan><tspan x='806' dy='16'>1</tspan><tspan x='806' dy='16'>サ</tspan><tspan x='806' dy='16'>ヤ</tspan><tspan x='806' dy='16'>ア</tspan><tspan x='806' dy='16'>0</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.54s" begin="3.73s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.2;0.2;0" keyTimes="0;0.1;0.8;1" dur="3.54s" begin="3.73s" repeatCount="indefinite"/>
+    </text>
+    <text x="837" y="-40" class="rain" fill="#00ff9d" opacity="0.19" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='837' dy='16'>{</tspan><tspan x='837' dy='16'>%</tspan><tspan x='837' dy='16'>}</tspan><tspan x='837' dy='16'>&lt;</tspan><tspan x='837' dy='16'>0</tspan><tspan x='837' dy='16'>[</tspan><tspan x='837' dy='16'>0</tspan><tspan x='837' dy='16'>&gt;</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="5.25s" begin="3.26s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.19;0.19;0" keyTimes="0;0.1;0.8;1" dur="5.25s" begin="3.26s" repeatCount="indefinite"/>
+    </text>
+    <text x="875" y="-40" class="rain" fill="#00ff9d" opacity="0.17" font-size="13" font-family="Consolas, Monaco, monospace">
+      <tspan x='875' dy='16'>カ</tspan><tspan x='875' dy='16'>カ</tspan><tspan x='875' dy='16'>#</tspan><tspan x='875' dy='16'>&gt;</tspan><tspan x='875' dy='16'>サ</tspan><tspan x='875' dy='16'>1</tspan><tspan x='875' dy='16'>ハ</tspan><tspan x='875' dy='16'>{</tspan>
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="0,340" dur="3.91s" begin="5.27s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.17;0.17;0" keyTimes="0;0.1;0.8;1" dur="3.91s" begin="5.27s" repeatCount="indefinite"/>
+    </text></g>
+
+    <!-- scanline sweep -->
+    <rect x="0" y="0" width="900" height="40" fill="url(#scanGrad)">
+      <animateTransform attributeName="transform" type="translate" from="0,-40" to="0,260" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- radar in top right -->
+    <g transform="translate(830,45)">
+      <circle r="22" fill="none" stroke="#00ff9d" stroke-opacity="0.3" stroke-width="1"/>
+      <circle r="14" fill="none" stroke="#00ff9d" stroke-opacity="0.3" stroke-width="1"/>
+      <circle r="6" fill="none" stroke="#00ff9d" stroke-opacity="0.3" stroke-width="1"/>
+      <line x1="0" y1="0" x2="22" y2="0" stroke="#00ff9d" stroke-width="1.5" opacity="0.9">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite"/>
+      </line>
+      <circle r="2.5" fill="#00ff9d">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- terminal window -->
+    <rect x="40" y="55" width="620" height="150" rx="8" fill="#04140f" stroke="#00ff9d" stroke-opacity="0.35" stroke-width="1"/>
+    <rect x="40" y="55" width="620" height="24" rx="8" fill="#062119"/>
+    <circle cx="58" cy="67" r="4" fill="#ff5f56"/>
+    <circle cx="72" cy="67" r="4" fill="#ffbd2e"/>
+    <circle cx="86" cy="67" r="4" fill="#27c93f"/>
+    <text x="350" y="71" text-anchor="middle" fill="#5fd9b4" font-family="Consolas, Monaco, monospace" font-size="11">pratham@billorax:~$</text>
+
+    <!-- typed lines with typewriter reveal -->
+    <g font-family="Consolas, Monaco, monospace" font-size="17" fill="#00ff9d">
+      <text x="58" y="112">$ whoami</text>
+      <text x="58" y="140" fill="#e6fff6" font-weight="bold" font-size="19">
+        <animate attributeName="opacity" values="0;0;1;1;1;1;0" keyTimes="0;0.02;0.08;0.6;0.62;0.98;1" dur="9s" repeatCount="indefinite"/>
+        Pratham Kumar — Systems Architect
+      </text>
+      <text x="58" y="168" fill="#8fe3c7" font-size="15">
+        <animate attributeName="opacity" values="0;0;1;1;1;1;0" keyTimes="0;0.1;0.16;0.6;0.64;0.98;1" dur="9s" repeatCount="indefinite"/>
+        Building BilloraX · Learning Cyber Security
+      </text>
+      <text x="58" y="192" fill="#00ff9d" font-size="15">
+        <animate attributeName="opacity" values="0;0;1;1;1;1;0" keyTimes="0;0.2;0.26;0.6;0.66;0.98;1" dur="9s" repeatCount="indefinite"/>
+        status: actively seeking internships
+        <tspan fill="#00ff9d">
+          <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+          _
+        </tspan>
+      </text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="259" rx="14" fill="none" stroke="#00ff9d" stroke-opacity="0.25"/>
+</svg>

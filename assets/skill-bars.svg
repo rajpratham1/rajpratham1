@@ -1,0 +1,80 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skillBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080d14"/>
+      <stop offset="100%" stop-color="#0d1420"/>
+    </linearGradient>
+    <clipPath id="skillFrame"><rect width="900" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#skillFrame)">
+    <rect width="900" height="300" fill="url(#skillBg)"/>
+    <text x="40" y="30" font-family="Consolas, Monaco, monospace" font-size="13" fill="#5fd9b4">$ system --report proficiency</text>
+    
+    <text x="40" y="69" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#dfe8f0">Frontend Engineering</text>
+    <rect x="260" y="55" width="560" height="18" rx="9" fill="#101823" stroke="#22303f" stroke-width="1"/>
+    <rect x="260" y="55" height="18" rx="9" fill="#61dafb" opacity="0.9">
+      <animate attributeName="width" from="0" to="504.0" dur="2.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <circle cy="64.0" r="5" fill="#61dafb">
+      <animate attributeName="cx" from="260" to="764.0" dur="2.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" begin="2.4000000000000004s" repeatCount="indefinite"/>
+    </circle>
+    <text x="836" y="69" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#61dafb" font-weight="700">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.85;1" dur="2.4000000000000004s" begin="0s" fill="freeze"/>
+      90%
+    </text>
+    <text x="40" y="117" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#dfe8f0">Backend &amp; APIs</text>
+    <rect x="260" y="103" width="560" height="18" rx="9" fill="#101823" stroke="#22303f" stroke-width="1"/>
+    <rect x="260" y="103" height="18" rx="9" fill="#3c873a" opacity="0.9">
+      <animate attributeName="width" from="0" to="476.0" dur="2.35s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <circle cy="112.0" r="5" fill="#3c873a">
+      <animate attributeName="cx" from="260" to="736.0" dur="2.35s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" begin="2.5500000000000003s" repeatCount="indefinite"/>
+    </circle>
+    <text x="836" y="117" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#3c873a" font-weight="700">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.85;1" dur="2.5500000000000003s" begin="0s" fill="freeze"/>
+      85%
+    </text>
+    <text x="40" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#dfe8f0">System Architecture</text>
+    <rect x="260" y="151" width="560" height="18" rx="9" fill="#101823" stroke="#22303f" stroke-width="1"/>
+    <rect x="260" y="151" height="18" rx="9" fill="#00d9ff" opacity="0.9">
+      <animate attributeName="width" from="0" to="448.0" dur="2.5s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <circle cy="160.0" r="5" fill="#00d9ff">
+      <animate attributeName="cx" from="260" to="708.0" dur="2.5s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" begin="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="836" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#00d9ff" font-weight="700">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.85;1" dur="2.7s" begin="0s" fill="freeze"/>
+      80%
+    </text>
+    <text x="40" y="213" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#dfe8f0">Cloud &amp; DevOps</text>
+    <rect x="260" y="199" width="560" height="18" rx="9" fill="#101823" stroke="#22303f" stroke-width="1"/>
+    <rect x="260" y="199" height="18" rx="9" fill="#ffca28" opacity="0.9">
+      <animate attributeName="width" from="0" to="392.0" dur="2.6500000000000004s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <circle cy="208.0" r="5" fill="#ffca28">
+      <animate attributeName="cx" from="260" to="652.0" dur="2.6500000000000004s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" begin="2.8500000000000005s" repeatCount="indefinite"/>
+    </circle>
+    <text x="836" y="213" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#ffca28" font-weight="700">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.85;1" dur="2.8500000000000005s" begin="0s" fill="freeze"/>
+      70%
+    </text>
+    <text x="40" y="261" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#dfe8f0">Security Fundamentals</text>
+    <rect x="260" y="247" width="560" height="18" rx="9" fill="#101823" stroke="#22303f" stroke-width="1"/>
+    <rect x="260" y="247" height="18" rx="9" fill="#ff5f5f" opacity="0.9">
+      <animate attributeName="width" from="0" to="364.0" dur="2.8000000000000003s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <circle cy="256.0" r="5" fill="#ff5f5f">
+      <animate attributeName="cx" from="260" to="624.0" dur="2.8000000000000003s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.4s" begin="3.0000000000000004s" repeatCount="indefinite"/>
+    </circle>
+    <text x="836" y="261" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#ff5f5f" font-weight="700">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.85;1" dur="3.0000000000000004s" begin="0s" fill="freeze"/>
+      65%
+    </text>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="299" rx="14" fill="none" stroke="#22303f"/>
+</svg>

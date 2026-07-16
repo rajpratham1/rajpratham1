@@ -1,0 +1,117 @@
+<svg width="900" height="340" viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgOrbit" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0d1420"/>
+      <stop offset="100%" stop-color="#05070c"/>
+    </radialGradient>
+    <radialGradient id="hubGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00d9ff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frameOrbit"><rect width="900" height="340" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frameOrbit)">
+    <rect width="900" height="340" fill="url(#bgOrbit)"/>
+
+    <!-- orbit rings -->
+    <circle cx="450.0" cy="180.0" r="150" fill="none" stroke="#1f3a4d" stroke-width="1" stroke-dasharray="2 6"/>
+    <circle cx="450.0" cy="180.0" r="230" fill="none" stroke="#1f3a4d" stroke-width="1" stroke-dasharray="2 6"/>
+
+    <!-- hub glow -->
+    <circle cx="450.0" cy="180.0" r="70" fill="url(#hubGlow)">
+      <animate attributeName="r" values="60;74;60" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- hub core -->
+    <g transform="translate(450.0,180.0)">
+      <circle r="40" fill="#0b1622" stroke="#00d9ff" stroke-width="1.5"/>
+      <text text-anchor="middle" y="-4" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#00d9ff">PRATHAM</text>
+      <text text-anchor="middle" y="14" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#7fdcff">full-stack</text>
+    </g>
+
+    <!-- orbiting skill nodes -->
+    
+    <g>
+      <animateMotion dur="22s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 600.0,180.0 A 150,150 0 1,1 300.0,180.0 A 150,150 0 1,1 600.0,180.0"
+        begin="-0.0s"/>
+      <circle r="26" fill="#f7df1e"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#111">JS</text>
+    </g>
+    <g>
+      <animateMotion dur="34s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 680.0,180.0 A 230,230 0 1,0 220.0,180.0 A 230,230 0 1,0 680.0,180.0"
+        begin="-3.4s"/>
+      <circle r="26" fill="#61dafb"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#062330">React</text>
+    </g>
+    <g>
+      <animateMotion dur="22s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 600.0,180.0 A 150,150 0 1,1 300.0,180.0 A 150,150 0 1,1 600.0,180.0"
+        begin="-4.4s"/>
+      <circle r="26" fill="#3c873a"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#eafff0">Node</text>
+    </g>
+    <g>
+      <animateMotion dur="34s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 680.0,180.0 A 230,230 0 1,0 220.0,180.0 A 230,230 0 1,0 680.0,180.0"
+        begin="-10.2s"/>
+      <circle r="26" fill="#3776ab"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#eaf3ff">Py</text>
+    </g>
+    <g>
+      <animateMotion dur="22s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 600.0,180.0 A 150,150 0 1,1 300.0,180.0 A 150,150 0 1,1 600.0,180.0"
+        begin="-8.8s"/>
+      <circle r="26" fill="#e76f00"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#fff5eb">Java</text>
+    </g>
+    <g>
+      <animateMotion dur="34s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 680.0,180.0 A 230,230 0 1,0 220.0,180.0 A 230,230 0 1,0 680.0,180.0"
+        begin="-17.0s"/>
+      <circle r="26" fill="#ffca28"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#3a2e00">Firebase</text>
+    </g>
+    <g>
+      <animateMotion dur="22s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 600.0,180.0 A 150,150 0 1,1 300.0,180.0 A 150,150 0 1,1 600.0,180.0"
+        begin="-13.2s"/>
+      <circle r="26" fill="#47a248"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#eafff0">Mongo</text>
+    </g>
+    <g>
+      <animateMotion dur="34s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 680.0,180.0 A 230,230 0 1,0 220.0,180.0 A 230,230 0 1,0 680.0,180.0"
+        begin="-23.8s"/>
+      <circle r="26" fill="#2496ed"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#eaf6ff">Docker</text>
+    </g>
+    <g>
+      <animateMotion dur="22s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 600.0,180.0 A 150,150 0 1,1 300.0,180.0 A 150,150 0 1,1 600.0,180.0"
+        begin="-17.6s"/>
+      <circle r="26" fill="#f34f29"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#fff0ee">Git</text>
+    </g>
+    <g>
+      <animateMotion dur="34s" repeatCount="indefinite" rotate="0" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+        path="M 680.0,180.0 A 230,230 0 1,0 220.0,180.0 A 230,230 0 1,0 680.0,180.0"
+        begin="-30.6s"/>
+      <circle r="26" fill="#38bdf8"/>
+      <text text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif"
+        font-size="12" font-weight="700" fill="#062330">Tailwind</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="339" rx="14" fill="none" stroke="#00d9ff" stroke-opacity="0.2"/>
+</svg>
