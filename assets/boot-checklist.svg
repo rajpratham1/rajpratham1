@@ -1,0 +1,77 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bootBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070c"/>
+      <stop offset="100%" stop-color="#0a0f18"/>
+    </linearGradient>
+    <clipPath id="bootFrame"><rect width="900" height="300" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#bootFrame)">
+    <rect width="900" height="300" fill="url(#bootBg)"/>
+    <text x="40" y="24" font-family="Consolas, Monaco, monospace" font-size="13" fill="#5fd9b4">$ billorax boot --env production</text>
+
+    <!-- progress bar -->
+    <rect x="40" y="40" width="820" height="10" rx="5" fill="#151b26" stroke="#232a38" stroke-width="1"/>
+    <rect x="40" y="40" height="10" rx="5" fill="#22c55e">
+      <animate attributeName="width" values="0;0;820" keyTimes="0;0.02;0.611" dur="9s" repeatCount="indefinite" fill="freeze" calcMode="spline" keySplines="0 0 0.2 1;0.2 0.8 0.2 1"/>
+    </rect>
+
+    
+    <circle cx="56" cy="85" r="9" fill="none" stroke="#3a4152" stroke-width="2"/>
+    <path d="M51,85 L54.5,88.5 L61,81" fill="none" stroke="#22c55e" stroke-width="2.4"
+      stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" values="16;16;0" keyTimes="0;0.067;0.08" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+    </path>
+    <text x="76" y="90" font-family="Consolas, Monaco, monospace" font-size="14" fill="#c7ced9">Auth Service</text>
+    <text x="860" y="90" text-anchor="end" font-family="Consolas, Monaco, monospace" font-size="12" fill="#22c55e" opacity="0">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.067;0.08" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+      ONLINE
+    </text>
+    <circle cx="56" cy="117" r="9" fill="none" stroke="#3a4152" stroke-width="2"/>
+    <path d="M51,117 L54.5,120.5 L61,113" fill="none" stroke="#22c55e" stroke-width="2.4"
+      stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" values="16;16;0" keyTimes="0;0.167;0.18" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+    </path>
+    <text x="76" y="122" font-family="Consolas, Monaco, monospace" font-size="14" fill="#c7ced9">Database Cluster</text>
+    <text x="860" y="122" text-anchor="end" font-family="Consolas, Monaco, monospace" font-size="12" fill="#22c55e" opacity="0">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.167;0.18" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+      ONLINE
+    </text>
+    <circle cx="56" cy="149" r="9" fill="none" stroke="#3a4152" stroke-width="2"/>
+    <path d="M51,149 L54.5,152.5 L61,145" fill="none" stroke="#22c55e" stroke-width="2.4"
+      stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" values="16;16;0" keyTimes="0;0.267;0.28" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+    </path>
+    <text x="76" y="154" font-family="Consolas, Monaco, monospace" font-size="14" fill="#c7ced9">Payments Gateway</text>
+    <text x="860" y="154" text-anchor="end" font-family="Consolas, Monaco, monospace" font-size="12" fill="#22c55e" opacity="0">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.267;0.28" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+      ONLINE
+    </text>
+    <circle cx="56" cy="181" r="9" fill="none" stroke="#3a4152" stroke-width="2"/>
+    <path d="M51,181 L54.5,184.5 L61,177" fill="none" stroke="#22c55e" stroke-width="2.4"
+      stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" values="16;16;0" keyTimes="0;0.367;0.38" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+    </path>
+    <text x="76" y="186" font-family="Consolas, Monaco, monospace" font-size="14" fill="#c7ced9">Notification Engine</text>
+    <text x="860" y="186" text-anchor="end" font-family="Consolas, Monaco, monospace" font-size="12" fill="#22c55e" opacity="0">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.367;0.38" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+      ONLINE
+    </text>
+    <circle cx="56" cy="213" r="9" fill="none" stroke="#3a4152" stroke-width="2"/>
+    <path d="M51,213 L54.5,216.5 L61,209" fill="none" stroke="#22c55e" stroke-width="2.4"
+      stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" values="16;16;0" keyTimes="0;0.467;0.48" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+    </path>
+    <text x="76" y="218" font-family="Consolas, Monaco, monospace" font-size="14" fill="#c7ced9">Cloud Deploy</text>
+    <text x="860" y="218" text-anchor="end" font-family="Consolas, Monaco, monospace" font-size="12" fill="#22c55e" opacity="0">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.467;0.48" dur="9.0s" repeatCount="indefinite" fill="freeze"/>
+      ONLINE
+    </text>
+
+    <text x="450.0" y="280" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#5b7285">
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.578;0.6" dur="9s" repeatCount="indefinite" fill="freeze"/>
+      all systems operational — ready to serve requests
+    </text>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="299" rx="14" fill="none" stroke="#22303f"/>
+</svg>
