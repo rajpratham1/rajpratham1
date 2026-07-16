@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/assets/hero-banner.svg" width="100%" alt="Pratham Kumar — animated terminal banner"/>
 </p>
 
-<h3 align="center">Founder @ BilloraX · B.Tech CSE Final Year · Web Developer · Actively seeking internships</h3>
+<h3 align="center">Founder @ BilloraX · Cyber Security & AI Full-Stack Developer · Actively seeking internships</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pratham-kumar-2a4b151a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -15,10 +15,11 @@
 
 ### 🚀 About Me
 
-I build production-ready web systems, not just class projects. Right now I'm scaling **BilloraX**, a billing & inventory platform, while going deep on cybersecurity fundamentals.
+I build production-ready web systems, not just class projects. Right now I'm scaling **BilloraX**, a billing & inventory platform, as a cyber security & AI full-stack developer.
 
 - 🏗️ Currently building **BilloraX** — smart billing & inventory management (React · Node.js · Firebase)
-- 🔐 Learning: applied cybersecurity & system design
+- 🔐 Cyber Security & AI Full-Stack Developer — I build secure systems and use AI tools to design, code, and ship faster
+- 🤖 AI in my workflow: I use AI pair-programming daily (Claude, Copilot) — for scaffolding, debugging, and code review, while owning every line that ships
 - 🎓 B.Tech CSE @ Invertis University (Final Year)
 - 💼 Open to: **internships**, freelance builds, and technical collaborations
 - ⚡ Fun fact: I've also self-published two ebooks — a Python guide and a poetry collection
@@ -45,6 +46,46 @@ I build production-ready web systems, not just class projects. Right now I'm sca
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/assets/pipeline-flow.svg" width="100%" alt="Animated request pipeline / architecture flow"/>
+</p>
+
+---
+
+### 💻 What I Actually Write
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/assets/code-editor.svg" width="100%" alt="Animated code editor typing a billing invoice function"/>
+</p>
+
+---
+
+### 🤖 AI-Assisted Development
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/assets/ai-pair-programming.svg" width="100%" alt="Animated AI pair-programming workflow with neural network"/>
+</p>
+
+---
+
+### 🧾 BilloraX in Action
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/assets/invoice-card.svg" width="100%" alt="Animated BilloraX invoice generation"/>
+</p>
+
+---
+
+### 🔐 Security First
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/assets/security-shield.svg" width="100%" alt="Animated security scan shield"/>
+</p>
+
+---
+
+### ✅ Systems Status
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/assets/boot-checklist.svg" width="100%" alt="Animated system boot checklist"/>
 </p>
 
 ---
