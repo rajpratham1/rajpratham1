@@ -143,12 +143,15 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://readmestats.vercel.app/api?username=rajpratham1&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=303636&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://readmestats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&border_color=303636&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rajpratham1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpratham1&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
