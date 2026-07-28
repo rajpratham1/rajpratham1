@@ -142,26 +142,38 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpratham1&theme=tokyonight" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajpratham1&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
----
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 📈 Activity Graph
+<img src="https://github-readme-stats.shion.dev/api?username=rajpratham1 &show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajpratham1&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
+</td>
+<td width="50%">
 
+<img src="https://github-readme-streak-stats1-nine.vercel.app/?user=rajpratham1 &theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
+
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+<img src="https://readmestate.vercel.app/api/top-langs/?username=rajpratham1 &layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+  
 ---
 
 ### 🏆 Trophies
