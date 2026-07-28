@@ -153,13 +153,12 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.shion.dev/api?username=rajpratham1 &show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rajpratham1&show_icons=true&theme=react&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats1-nine.vercel.app/?user=rajpratham1 &theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.com/?user=rajpratham1&theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
 
 </td>
 </tr>
@@ -168,14 +167,9 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 
 <div align="center">
 
-<img src="https://readmestate.vercel.app/api/top-langs/?username=rajpratham1 &layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
-
-<div align="center">
-  
----
-
 ### 🏆 Trophies
 
 <p align="center">
