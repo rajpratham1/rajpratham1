@@ -152,6 +152,13 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 
 </div>
 
+### 🏙️ 3D Contribution Cityscape
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
+</p>
+
+
 <div align="center">
 <table>
 <tr>
@@ -203,6 +210,24 @@ No activity tracked
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/output/snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+</p>
+
+---
+
+### 💬 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
+</p>
+
+---
+
+### 🎵 Spotify — Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/prathamshrivastava">
+    <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/assets/spotify-card.svg" width="480" alt="Spotify Now Playing"/>
+  </a>
 </p>
 
 ---
