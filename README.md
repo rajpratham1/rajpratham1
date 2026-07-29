@@ -103,8 +103,8 @@ I build production-ready web systems, not just class projects. Right now I'm sca
 | [**Cyber Threat Intel Dashboard**](https://github.com/rajpratham1) | Real-time threat visualization dashboard | React · Flask · D3.js |
 | [**InfraVision**](https://infra-vision-lac.vercel.app/) | InfraVision is an end-to-end infrared image enhancement and colorization project | JavaScript . Python . Firebase |
 | [**ECO_VERSE**](https://eco-verse-eight.vercel.app/) | This web project is designed to work with the same Firebase backend and the same institutional data model used by the mobile app project in invertis_ecoverse | JavaScript . Python . CSS . Firebase |
-| [**VIRU**](https://viru-ptif.vercel.app/) | Free alternative to ChatGPT and GitHub Copilot - VIRU is a privacy-first, self-hosted AI coding assistant that runs 100% locally. Unlike cloud-based alternatives, your code never leaves your machine, and there are no monthly subscription fees | Type Script.Firebass |
-| [**Viru-Frontend_Generator**](https://viru-frontend-generator.vercel.app/) | Prompt-to-website generator built with Flask + Firebase Auth + Groq/OpenAI compatible API. (IIOT-6 Project) | JavaScript.Python.Grok AI (API) |
+| [**VIRU**](https://viru-ptif.vercel.app/) | Free alternative to ChatGPT and GitHub Copilot - VIRU is a privacy-first, self-hosted AI coding assistant that runs 100% locally. Unlike cloud-based alternatives, your code never leaves your machine, and there are no monthly subscription fees | Type Script.Firebase |
+| [**Viru-Frontend_Generator**](https://viru-frontend-generator.vercel.app/) | Prompt-to-website generator built with Flask + Firebase Auth + Groq/OpenAI compatible API. (IIOT-6 Project) | JavaScript.Python.Groq AI (API) |
 | [**Elite-Bot**](https://elite-bot-jx9r.onrender.com/) | Elite Bot is a professional-grade, multi-agent automation platform that bridges the gap between a Telegram bot and a high-performance 3D Web Dashboard. It combines state-of-the-art AI intelligence with powerful automation modules for price tracking, job alerts, and system monitoring | Gemini. Llama 3.3. Three.js. JavaScript. Python |
 | [**Aether Tool**](https://rajpratham1.github.io/Aether-Tools/) | Smart Hub: Your All-in-One Daily Dashboard A modern web app for weather, AQI, accurate time, and essential tools like a stopwatch & alarm. Designed with a sleek, responsive interface for seamless use on any device, featuring dark/light mode for comfort | JavaScript. HTML|
 | [**AutoPortfolio**](https://auto-portfolio-ufmx.vercel.app/) | An instant portfolio generator built with Next.js and Firebase. Create and deploy a professional portfolio in minutes | TypeScript. RouterOS Script. Firebase |
@@ -158,7 +158,7 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 </td>
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com/?user=rajpratham1&theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats1-nine.vercel.app/?user=rajpratham1&theme=react&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" />
 
 </td>
 </tr>
