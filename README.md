@@ -177,9 +177,12 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 
 <div align="center">
 
+<div align="center">
+
 ### ⏱️ Weekly Coding Activity
 
-<img src="https://github-readme-stats-iota-nine-14.vercel.app/api/wakatime?username=rajpratham1&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
