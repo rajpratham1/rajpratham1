@@ -182,6 +182,11 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 ### ⏱️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </div>
