@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/rajpratham1/rajpratham1/main/assets/hero-banner.svg" width="100%" alt="Pratham Kumar — animated terminal banner"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Founder+%40+BilloraX+%F0%9F%8F%97%EF%B8%8F;Cyber+Security+%26+AI+Full-Stack+Developer+%F0%9F%94%90;Building+Production-Ready+Systems+%F0%9F%9A%80;B.Tech+CSE+%40+Invertis+University+%F0%9F%8E%93;Open+to+Internships+%26+Collaborations+%F0%9F%92%BC" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Founder @ BilloraX · Cyber Security & AI Full-Stack Developer · Actively seeking internships</h3>
 
 <p align="center">
@@ -170,6 +174,15 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 <img src="https://github-readme-stats-iota-nine-14.vercel.app/api/top-langs/?username=rajpratham1&layout=compact&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
+
+<div align="center">
+
+### ⏱️ Weekly Coding Activity
+
+<img src="https://github-readme-stats-iota-nine-14.vercel.app/api/wakatime?username=rajpratham1&theme=react&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_color=30363d&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats" />
+
+</div>
+
 ### 🏆 Trophies
 
 <p align="center">
