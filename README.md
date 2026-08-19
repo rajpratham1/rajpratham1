@@ -191,11 +191,11 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 40 mins         █████████░░░░░░░░░░░░░░░░   36.51 %
-Other        1 hr 48 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-Git Config   1 hr 32 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-JavaScript   1 hr 10 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Python       54 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+TypeScript   4 hrs 11 mins         █████████▒░░░░░░░░░░░░░░░   37.74 %
+Other        2 hrs 23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
+Git Config   1 hr 32 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+JavaScript   1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Python       54 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 ```
 
 <!--END_SECTION:waka-->
