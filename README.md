@@ -191,11 +191,11 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    4 hrs 49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
-Other         4 hrs 19 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
-JavaScript    3 hrs 9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-Python        2 hrs 7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Dart          53 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Other             4 hrs 15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
+TypeScript        3 hrs 37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+JavaScript        3 hrs 28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
+Dart              2 hrs 6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+HTML              1 hr 29 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
 ```
 
 <!--END_SECTION:waka-->
