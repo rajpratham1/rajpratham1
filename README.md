@@ -191,11 +191,8 @@ Built a real-time analytics tool on Snowflake; top 50 of 5,000+ participants.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   26 mins               █████████▓░░░░░░░░░░░░░░░   39.31 %
-Markdown     14 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
-Other        11 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-Git Config   6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-Python       4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Python   4 mins                ████████████████████████▒   96.99 %
+XML      0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
